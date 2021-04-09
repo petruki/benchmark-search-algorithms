@@ -28,7 +28,7 @@ BenchmarkRunner.testPrimitiveForEachBinary8Threads |10000000  |avgt   |    267,3
 BenchmarkRunner.testPrimitiveForLoop               |10000000  |avgt   |   2057,118   | ms/op
 BenchmarkRunner.testPrimitiveStream                |10000000  |avgt   |  10230,278   | ms/op
 
-### Runing
+### Running
 
 Do not use the embedded Maven from your IDE
 
